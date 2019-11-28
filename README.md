@@ -28,5 +28,3 @@ This project to complete udacity Data Scientist Nanodegree capstone project I've
 Files
 Starbucks_Capstone_notebook.ipynb: the code notebook Starbucks_Capstone_notebook.html : the HTML version of the notebook
 
-
-You can see a blog post of this analysis here: https://medium.com/@alan_mattos/analyzing-starbucks-customer-behavior-9a6fb48a15f3
